@@ -3,7 +3,6 @@ Wide-Bandgap (GaN/SiC) Switching Device & Electro-Thermal Dynamics.
 Models temperature-dependent conduction losses and transient junction heating.
 """
 from dataclasses import dataclass
-import numpy as np
 
 
 @dataclass(frozen=True)
